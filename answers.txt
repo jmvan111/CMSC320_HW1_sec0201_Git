@@ -12,3 +12,9 @@ Answer: Data Science could be applied to many fields. One such field could be Sp
 For example, Data science can be used for analyzing performance of athletes, in order to improve or customize training plans. This could even be
 affecting strategy at higher levels. In addition, Data science could be used in the world of sports betting, where one could analyze trends, and create
 statistical models to predict the outcomes of matches to make money.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches together, while keeping the history of both branches. You would use this when you want to be able to see the entire development
+history. Rebasing differs from merging in how it writes the history. Rebasing moves commits from one branch on top of the other branch, which makes it seem like there
+was no merge commit. This provides you with a cleaner timeline, however you will not be able to see merge history.
