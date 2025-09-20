@@ -1,0 +1,14 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is very useful for coding environments because it provides a nice platform to collaborate, recieve assignments, etc.. Git 
+can be used to transfer work from pcs to laptops as well by makin guse of the Backup features and it also keeps track of version control 
+and change history.It is very helpful in allowing multiple individuals to work on the same project, because of its branching and merging capabilities
+which helps individuals work independtly and then merge their changes later on. It is also widely used in the coding industry, and is integrated
+with many other tools.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science could be applied to many fields. One such field could be Sports and Entertainment.
+For example, Data science can be used for analyzing performance of athletes, in order to improve or customize training plans. This could even be
+affecting strategy at higher levels. In addition, Data science could be used in the world of sports betting, where one could analyze trends, and create
+statistical models to predict the outcomes of matches to make money.
